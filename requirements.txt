@@ -1,1 +1,6 @@
-streamlit==1.26.0
+altair
+pandas
+streamlit
+streamlit-nightly
+scikit-learn
+openai
