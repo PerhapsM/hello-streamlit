@@ -18,5 +18,5 @@ Order item analysis.
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run 20250321_OrderItems.py
    ```
