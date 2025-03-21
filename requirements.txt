@@ -1,6 +1,3 @@
-altair
+plotly
 pandas
 streamlit
-streamlit-nightly
-scikit-learn
-openai
